@@ -4,9 +4,10 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>hello</title>
+<title>hello update test</title>
 </head>
 <body>
 	hello ~~~ eclipse에서 수정 + 다시 eclipse에서 수정
+	hello ~~~ eclipse에서 수정 + cmd에서 수정
 </body>
 </html>
