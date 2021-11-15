@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>hello</title>
+<title>hello update test</title>
 </head>
 <body>
 	hello
