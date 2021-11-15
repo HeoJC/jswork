@@ -4,9 +4,9 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>test.jsp</title>
+<title>hello</title>
 </head>
 <body>
-	test
+	hello
 </body>
 </html>
